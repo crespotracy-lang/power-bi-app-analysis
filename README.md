@@ -2,62 +2,56 @@
 
 ## Project Overview
 
-This project uses Microsoft Power BI to analyze app data and user reviews.
+This project uses Microsoft Power BI to analyze app performance, user reviews, ratings, and developer engagement.
 
-The analysis explores app performance, review activity, ratings, helpful reviews, and developer engagement to identify patterns that can support data-driven business decisions.
+The goal is to identify patterns in app activity and user feedback that can support data-driven business decisions.
 
 ## Business Questions
 
 - How many unique apps are included in the dataset?
 - How does review activity change over time?
-- Is review volume related to app ratings?
+- What is the relationship between app ratings and review volume?
+- Which developers have the highest ratings?
 - Which developers receive the most helpful reviews?
-- How does developer response activity vary?
-- What patterns can be identified from app ratings and reviews?
+- How active are developers in responding to users?
 
-## Dashboard Pages
+## Key Skills
+
+- Power BI
+- Data Visualization
+- Data Analysis
+- DAX
+- KPI Cards
+- Bar Charts
+- Line Charts
+- Scatterplots
+- Data Interpretation
+- Business Intelligence
+
+## Dashboard
 
 ### App Landscape
 
-Provides an overview of the app market using:
+Overview of the app market, including unique apps, review activity, ratings, and user engagement.
 
-- KPI card showing unique apps
-- Review activity over time
-- Reviews vs. average rating scatterplot
+![App Landscape](screenshots/app-landscape.png)
 
-### Reviews
+### Reviews Analysis
 
-Analyzes review activity and helpful reviews.
+Analysis of review activity, ratings, and helpful reviews.
 
-### App Reviews
+![Reviews Analysis](screenshots/reviews-analysis.png)
 
-Examines developer performance, ratings, helpful reviews, and developer responses.
+### Developer Analysis
 
-## Key Insight
+Comparison of developer performance, ratings, helpful reviews, and developer response activity.
 
-The analysis found that a higher number of reviews does not necessarily correspond to a higher average app rating.
+![Developer Analysis](screenshots/developer-analysis.png)
 
-This suggests that review volume and user satisfaction should be evaluated as separate performance indicators.
+## Tools
 
-## Tools & Skills
+**Microsoft Power BI**
 
-- Microsoft Power BI
-- DAX
-- Excel
-- Data Analysis
-- Data Visualization
-- KPI Reporting
-- Dashboard Development
-- Data Modeling
-- Business Intelligence
-- Data Storytelling
+## Project Outcome
 
-## Project Purpose
-
-The goal of this project was to transform app and review data into clear visual insights that can help stakeholders understand app performance and user engagement.
-
-## Author
-
-**Tracy Crespo**
-
-Aspiring Business Analyst | Business Analytics | SQL | Excel | Power BI | Tableau
+The analysis demonstrates how Power BI can transform app and review data into interactive visualizations that help identify trends, compare performance, and support business decision-making.
